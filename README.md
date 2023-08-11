@@ -25,6 +25,8 @@ Once the container starts, open http://localhost:16686/  to access the Jaeger UI
 
 Let’s generate some traces using a simple python program. You can clone the Jaeger-Opentracing repository given below for a sample program that is used in this blog.
 
+booking-mgr.py
+
 ```py
 import sys
 import time
